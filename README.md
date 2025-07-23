@@ -34,7 +34,7 @@ python3 LabScreenSpy_Server.py
 ### Cliente (Windows)
 1. Edite o IP do servidor no script.
 ```python
-ip = '192.168.1.62'
+ip = '192.168.1.1'
 ```
 2. Execute:
 ```bash
