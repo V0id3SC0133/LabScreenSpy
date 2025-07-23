@@ -4,7 +4,7 @@
 Projeto de monitoramento de tela via rede, utilizando comunicação TCP entre um cliente (Windows) e um servidor (Kali Linux). O cliente captura screenshots periodicamente e envia para o servidor, que as exibe em tempo real.
 
 ## 👨‍💻 Autor
-- **Ernani S. Camilo**
+- **Ernani S. C.**
 - **Nickname:** v0id3SC0133
 
 ## 🎯 Objetivo
