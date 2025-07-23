@@ -49,7 +49,7 @@ python LabScreenSpy_Client.py
 ## ⚠️ Aviso Legal
 Este projeto é apenas para fins educacionais. O uso indevido pode violar leis. O autor não se responsabiliza.
 
-## 🧠 Próximos Passos
+## Próximos Passos
 - Suporte a múltiplos monitores
 - Criptografia de dados
 - Compressão mais rápida
