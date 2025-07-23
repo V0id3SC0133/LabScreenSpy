@@ -10,7 +10,7 @@ from zlib import decompress
 from sys import stdout
 
 class LabScreenSpyServer:
-    def __init__(self, ip='0.0.0.0', port=666, img_name='frame.jpg'):
+    def __init__(self, ip='0.0.0.0', port=445, img_name='frame.jpg'):
         self.ip = ip
         self.port = port
         self.img_name = img_name
