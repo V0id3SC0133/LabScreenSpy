@@ -3,10 +3,6 @@
 
 Projeto de monitoramento de tela via rede, utilizando comunicação TCP entre um cliente (Windows) e um servidor (Kali Linux). O cliente captura screenshots periodicamente e envia para o servidor, que as exibe em tempo real.
 
-## 👨‍💻 Autor
-- **Ernani S. C.**
-- **Nickname:** v0id3SC0133
-
 ## 🎯 Objetivo
 Criar uma PoC (Proof of Concept) de um screenshot spy entre máquinas conectadas em rede, simulando uma ferramenta de exfiltração de tela para fins educacionais ou testes de segurança.
 
@@ -49,7 +45,6 @@ python LabScreenSpy_Client.py
 ## ⚠️ Aviso Legal
 Este projeto é apenas para fins educacionais. O uso indevido pode violar leis. O autor não se responsabiliza.
 
-## Próximos Passos
-- Suporte a múltiplos monitores
-- Criptografia de dados
-- Compressão mais rápida
+## 👨‍💻 Autor
+- **Ernani S. C.**
+- **Nickname:** v0id3SC0133
