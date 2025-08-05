@@ -47,4 +47,4 @@ Este projeto é apenas para fins educacionais. O uso indevido pode violar leis. 
 
 ## 👨‍💻 Autor
 - **Ernani S. C.**
-- **Nickname:** v0id3SC0133
+- **Nickname:** 3SC0133
